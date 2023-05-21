@@ -1,6 +1,6 @@
 README
 
-This is a project created centered around the idea of backspin creating lift. Much like a golf ball. The idea is to ramp this effect up as high as possible to create a new and novel approach to flight.
+This is a project is centered around the idea of backspin creating lift. Much like a golf ball. The idea is to ramp this effect up as high as possible to create a new and novel approach to flight.
 
 As a former Aircraft mechanic, I have studied flight mechanics extensively. I have found that engines are at near theoretical maximum efficiency and that there is a new approach needed to replace them. Rocket propulsion can only take us so far as this is highly dangerous and even after decades of advancement, rockets still explode uncontrollably around the world.
 
@@ -26,7 +26,7 @@ The Flettner Model:
 https://www.youtube.com/watch?v=jLDxUWTeDnE
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-This effect is quite interesting to me for several reasons, the primary one being that the lift is being created purely by a rotating surface. Nothing else is required. Rotation also exhibits a few other effects such as
+This effect is quite interesting to me for several reasons, the primary one being that the lift is being created purely by air passing over a rotating surface. Nothing else is required. Rotation also exhibits a few other effects such as...
 
 Amplification:
 
