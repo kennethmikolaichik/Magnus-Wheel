@@ -7,7 +7,7 @@ As a former Aircraft mechanic, I have studied flight mechanics extensively. I ha
 By becoming an expert in this form of lift, I intend to merge my research with existing airframe technology to increase the amount of lift achievable without increasing the amount of thrust required to achieve this lift. In other words, I intend to increase the lift to thrust ratio to a point previously unheard of.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-(https://github.com/kennethmikolaichik/Magnus-Wheel/blob/main/Lift%20of%20a%20Rotating%20Cylinder.png)
+![NASA Diagram](https://github.com/kennethmikolaichik/Magnus-Wheel/blob/main/Lift%20of%20a%20Rotating%20Cylinder.png)
 
 Here is one of the most simple examples to build that I could find:
 
