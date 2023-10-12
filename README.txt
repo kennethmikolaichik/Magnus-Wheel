@@ -1,6 +1,6 @@
 README
 
-This is a project is centered around the idea of backspin creating lift. Much like a golf ball. The idea is to ramp this effect up as high as possible to create a new and novel approach to flight.
+This is a project centered around the idea of backspin creating lift. Much like a golf ball. The idea is to ramp this effect up as high as possible to create a new and novel approach to flight.
 
 As a former Aircraft mechanic, I have studied flight mechanics extensively. I have found that engines are at near theoretical maximum efficiency and that there is a new approach needed to replace them. Rocket propulsion can only take us so far as this is highly dangerous and even after decades of advancement, rockets still explode uncontrollably around the world.
 
